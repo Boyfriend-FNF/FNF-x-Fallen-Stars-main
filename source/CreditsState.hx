@@ -66,6 +66,8 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+                        ['Android Port'],
+                        ['Boyfriend FNF',		'alexr',		'...',				'https://www.youtube.com/c/BoyfriendFNF',		'a46458'],
 			['FNF x Fallen Stars Team'],
 			['AlexR',		'alexr',		'Owner/Main Musician of FNF x Fallen Stars',				'https://www.youtube.com/channel/UC5tEcYoKNMgEZCbo8N_OQDg',		'a46458'],
 			['Jloor',			'jloor',		'Main Coder of FNF x Fallen Stars',					'https://twitter.com/GamerJloor',	'ffece5'],
